@@ -1,0 +1,105 @@
+body {
+    margin: 0px;
+  }
+  
+  main {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    align-items: start;
+  }
+
+nav{
+    color: white;
+
+}
+#ladoD{
+
+    margin-top: auto;
+    margin-left: 3%;
+
+
+}
+#ladoE{
+  
+    margin-top: 2%;
+    margin-left: 15%;
+}
+
+nav ul {
+    text-align: right; /* Alinha os itens do menu à direita */
+}
+
+nav ul li {
+    display: inline;
+    margin-left: 10px; /* Remove a margem esquerda dos itens da lista */
+    margin-right: 1%;
+    color: aliceblue;
+}
+
+
+header{
+background-color: black;
+width: 100%;
+height: 50px;
+
+ }
+
+ #quadradoA{
+
+    margin-top: 150px;
+    margin-right: 20px;
+    background-color:  rgb(233, 249, 253);
+    border-radius: 10px;
+
+ }
+
+ #quadradoB{
+
+    margin-top: 150px;
+    background-color: rgb(233, 249, 253);
+    border-radius: 10px;
+ }
+
+
+ #contato{
+
+   margin-top: 2%;
+   text-align: center;
+
+ }
+
+ #botoes{
+
+    width: 170px;
+    border-left: 10px;
+    background-color: rgb(125, 125, 250);
+    color: rgb(249, 249, 249);
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+}
+
+#formulario{
+
+
+
+}
+#imagem{
+
+    border-radius: 10px;
+}
+
+#enviar{
+
+ margin-top: 100px;
+ margin-left: 70%;
+ background-color: rgb(125, 125, 250);
+ color: white; 
+ padding: 10px 20px; /* Espaçamento interno de 10px superior/inferior e 20px esquerda/direita */
+ font-size: 16px; 
+ border: none; 
+ border-radius: 5px; 
+
+
+}
